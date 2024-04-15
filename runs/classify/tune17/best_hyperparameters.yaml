@@ -1,0 +1,30 @@
+# 163/300 iterations complete ✅ (17679.84s)
+# Results saved to runs\classify\tune17
+# Best fitness=0.96429 observed at iteration 114
+# Best fitness metrics are {'metrics/accuracy_top1': 0.92857, 'metrics/accuracy_top5': 1.0, 'val/loss': 0.6626, 'fitness': 0.96429}
+# Best fitness model is runs\classify\train116
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.00937
+lrf: 0.00952
+momentum: 0.96802
+weight_decay: 0.00043
+warmup_epochs: 3.02806
+warmup_momentum: 0.95
+box: 6.28964
+cls: 0.62324
+dfl: 1.52132
+hsv_h: 0.01116
+hsv_s: 0.7
+hsv_v: 0.40794
+degrees: 0.0
+translate: 0.1011
+scale: 0.49731
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.53851
+bgr: 0.0
+mosaic: 1.0
+mixup: 0.0
+copy_paste: 0.0
